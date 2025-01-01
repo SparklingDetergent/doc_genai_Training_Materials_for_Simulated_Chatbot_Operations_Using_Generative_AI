@@ -1,0 +1,2 @@
+# doc_genai_Training_Materials_for_Simulated_Chatbot_Operations_Using_Generative_AI
+生成AIのチャットボットを業務で利用することを想定した演習問題集みたいな資料
